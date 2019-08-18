@@ -6,7 +6,7 @@ crew: assets/images/LwC_crew.jpeg
 # logo: assets/images/logo.png
 favicon: assets/images/favicon.png
 baseurl: "/" # the subpath of your site, e.g. /blog/ or / for root
-url: "https://stevencrowderisaliar.com" # the base hostname & protocol for your site
+url: "/" # the base hostname & protocol for your site
 
 pagination:
 
