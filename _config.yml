@@ -5,8 +5,8 @@ cover: assets/images/scial.png
 crew: assets/images/LwC_crew.jpeg
 # logo: assets/images/logo.png
 favicon: assets/images/favicon.png
-baseurl: "/" # the subpath of your site, e.g. /blog/ or / for root
-url: "/" # the base hostname & protocol for your site
+baseurl: "/hanuman/" # the subpath of your site, e.g. /blog/ or / for root
+url: "https://drsayre.github.io/" # the base hostname & protocol for your site
 
 pagination:
 
