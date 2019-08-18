@@ -1,8 +1,8 @@
 # Site settings
 title: Steven Crowder is a Liar
 description: Where is Sven Computer? Where is Not Gay Jared?
-cover: assets/images/scial.png
-crew: assets/images/LwC_crew.jpeg
+cover: /assets/images/scial.png
+crew: /assets/images/LwC_crew.jpeg
 # logo: assets/images/logo.png
 favicon: assets/images/favicon.png
 baseurl: "/hanuman/" # the subpath of your site, e.g. /blog/ or / for root

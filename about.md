@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<amp-img width="600" height="300" layout="responsive" src="{{ site.baseurl }}{{ site.crew }}"></amp-img>
+<amp-img width="600" height="300" layout="responsive" src="{{ site.crew }}"></amp-img>
 
 Where is Sven Computer?
 
